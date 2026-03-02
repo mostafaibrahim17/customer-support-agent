@@ -7,7 +7,7 @@ A production-ready customer support agent using Weave and W&B Inference.
 This project implements a customer support agent that leverages Weave and OpenAI's capabilities to provide efficient and safe customer interactions. It includes guardrails to ensure account and content safety, making it suitable for production use.
 
 ## Tutorial Reference
-This repository accompanies a tutorial article. You can read it [here](URL_PLACEHOLDER).
+This repository accompanies a tutorial article. You can read it [here](https://wandb.ai/mostafaibrahim17/ml-articles/reports/Building-a-Production-Ready-Customer-Support-Agent-With-Weave--VmlldzoxNjAxNDc2Ng).
 
 ## Prerequisites
 - Python 3.8 or higher
